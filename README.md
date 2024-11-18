@@ -38,12 +38,12 @@ Now, let's unpack the file with this command
 ```
 sudo tar -C /usr/local -xzf go1.xx.x.linux-arm64.tar.gz
 ```
+Note: Replace go1.xx.x.linux-arm64.tar.gz with the actual filename of the Go tarball you downloaded.
 
 After you unpack the file enter this command
 ```
 ls /usr/local/go/
 ```
-Note: Replace go1.xx.x.linux-arm64.tar.gz with the actual filename of the Go tarball you downloaded.
 
 You should get something like this 
 
