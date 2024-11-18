@@ -11,6 +11,7 @@
 # **What you will learn to do:**
 + Learn to download GO
 + Learn to download Rust
++ Learn to download Git
 + Learn to download the kaspa-stratum-bridge
 + Learn to download Kaspa-NG
 
