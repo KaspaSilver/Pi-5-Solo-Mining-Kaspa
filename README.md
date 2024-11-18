@@ -67,4 +67,16 @@ Where the blue arrow is copy and paste this command
 ```
 export= PATH="$PATH:/usr/loc/go/bin"
 ```
-Then save what you just entered by clicking CTRL + O
+Save what you just entered by clicking CTRL + O
+Restart your Pi Device
+
+Go into your terminal again and enter this command
+```
+go version
+```
+
+You should see a go version appear
+
+Congratulations you have downloaded GO to your device!
+
+# Step 2 Download Rust
