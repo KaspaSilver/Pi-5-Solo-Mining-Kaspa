@@ -65,7 +65,7 @@ This will bring you to a new screen within the terminal that you can then scroll
 
 Where the blue arrow is copy and paste this command
 ```
-export= PATH="$PATH:/usr/loc/go/bin"
+export PATH="$PATH:/usr/loc/go/bin"
 ```
 Save what you just entered by clicking CTRL + O
 Restart your Pi Device
