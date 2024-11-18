@@ -17,4 +17,4 @@
 
 # Step 1: Downloading GO
 + Head over to https://go.dev/dl/
-+ Download the latest Linux version that has the ending as armv6l.tar.gz
++ Download the latest Linux version that has the ending as **arm64.tar.gz**
