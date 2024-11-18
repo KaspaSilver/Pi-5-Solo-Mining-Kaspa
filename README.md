@@ -67,4 +67,4 @@ Where the blue arrow is copy and paste this command
 ```
 export= PATH="$PATH:/usr/loc/go/bin"
 ```
-Then save what you just entered by clicking 
+Then save what you just entered by clicking CTRL + O
