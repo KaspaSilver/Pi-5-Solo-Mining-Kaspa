@@ -105,5 +105,13 @@ You should see a version which means you have succsfully installed Rust!
 
 # Step 3: Download Git
 
-
+Run this command to download
+```
+sudo apt install git
+```
+Verify install with this command
+```
+git --version
+```
+You should see a version which means you have succsfully installed Git!
 
