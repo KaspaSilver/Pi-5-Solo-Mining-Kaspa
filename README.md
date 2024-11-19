@@ -69,7 +69,7 @@ Where the blue arrow is copy and paste this command
 ```
 export PATH="$PATH:/usr/loc/go/bin"
 ```
-Save what you just entered by clicking CTRL + O
+Save what you just entered by clicking CTRL + S
 Restart your Pi Device
 
 Go into your terminal again and enter this command
