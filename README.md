@@ -165,3 +165,6 @@ After it builds run it with this command
 ```
 ./target/release/kaspa-ng
 ```
+
+After that, you are done! For configuration setup check out this video I made: [How To Solo Mine To Your Own Node Using KNG On Kaspa
+](https://youtu.be/2MuebQia1F0?si=ZzxXJgSGUnddRTs8)
