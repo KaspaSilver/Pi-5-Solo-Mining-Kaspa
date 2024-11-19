@@ -147,3 +147,19 @@ Start the bridge with this command
 ```
 The bridge should start!
 
+Step 5: Download Kaspa-NG
+
+Open a fresh terminal and run this command
+```
+git clone https://github.com/kaspanet/kaspa-ng.git
+```
+
+Build Kaspa-NG
+```
+cd kaspa-ng
+cargo build --release
+```
+After it builds which could take 20min run it with this command
+```
+./target/release/kaspa-ng
+```
