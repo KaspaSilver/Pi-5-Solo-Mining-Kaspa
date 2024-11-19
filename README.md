@@ -168,3 +168,5 @@ After it builds run it with this command
 
 After that, you are done! For configuration setup check out this video I made: [How To Solo Mine To Your Own Node Using KNG On Kaspa
 ](https://youtu.be/2MuebQia1F0?si=ZzxXJgSGUnddRTs8)
+
+If you wanna support my work consider donating: kaspa:qpshhxee9q9ej5qz9x4rxe6708h3735lh9q9qv593yefxvk75fcm26xvdrwfw
