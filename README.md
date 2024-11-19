@@ -147,7 +147,7 @@ Start the bridge with this command
 ```
 The bridge should start!
 
-Step 5: Download Kaspa-NG
+# Step 5: Download Kaspa-NG
 
 Open a fresh terminal and run this command
 ```
