@@ -151,7 +151,7 @@ The bridge should start!
 
 Open a fresh terminal and run this command
 ```
-git clone [https://github.com/kaspanet/kaspa-ng.git](https://github.com/aspectron/kaspa-ng.git)
+git clone https://github.com/aspectron/kaspa-ng.git
 ```
 
 Build Kaspa-NG
