@@ -84,6 +84,7 @@ Congratulations you have downloaded GO to your device!
 # Step 2: Download Rust
 
 Open your terminal and run these commands to update your system
+ (May take 5-10min)
 ```
 sudo apt update
 sudo apt upgrade
