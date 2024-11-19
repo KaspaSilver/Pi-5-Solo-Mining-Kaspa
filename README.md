@@ -81,7 +81,7 @@ You should see a go version appear
 
 Congratulations you have downloaded GO to your device!
 
-# Step 2 Download Rust
+# Step 2: Download Rust
 
 Open your terminal and run these commands to update your system
 ```
@@ -116,7 +116,7 @@ rustc --version
 ```
 You should see a version which means you have succsfully installed Rust!
 
-# Step 3 Download Git
+# Step 3: Download Git
 
 
 
