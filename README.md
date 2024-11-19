@@ -133,7 +133,7 @@ git checkout goldshell
 ```
 Next enter this command
 ```
-cmd/kaspabridge
+cd cmd/kaspabridge
 ```
 Start the bridge with this command
 ```
