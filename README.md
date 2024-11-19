@@ -23,7 +23,7 @@
 Open your terminal and go to your downloads directory by pasting this command
 
 ```
-cd downloads
+cd Downloads
 ```
 
 Next, check to make sure you have the file by pasting this command
