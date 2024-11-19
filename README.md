@@ -95,6 +95,7 @@ Install dependencies with this command
 sudo apt install curl build-essential
 ```
 Install Rust with this command
+  (May take 5-10min)
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
