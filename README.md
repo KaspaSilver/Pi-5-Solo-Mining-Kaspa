@@ -131,7 +131,11 @@ Then ensure you are on goldshell branch by running this command
 ```
 git checkout goldshell
 ```
-Run this command
+Next enter this command
+```
+cmd/kaspabridge
+```
+Start the bridge with this command
 ```
 ./kaspabridge
 ```
