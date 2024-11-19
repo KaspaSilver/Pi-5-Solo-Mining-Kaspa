@@ -82,3 +82,41 @@ You should see a go version appear
 Congratulations you have downloaded GO to your device!
 
 # Step 2 Download Rust
+
+Open your terminal and run these commands to update your system
+```
+sudo apt update
+sudo apt upgrade
+```
+
+Install dependencies with this command
+```
+sudo apt install curl build-essential
+```
+Install Rust with this command
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+Configure your shell following these commands in order
+```
+source $HOME/.cargo/env
+```
+
+```
+echo 'source $HOME/.cargo/env' >> ~/.bashrc
+```
+
+```
+source ~/.bashrc
+```
+
+Then verify the install with this command
+```
+rustc --version
+```
+You should see a version which means you have succsfully installed Rust!
+
+# Step 3 Download Git
+
+
+
