@@ -154,12 +154,12 @@ Open a fresh terminal and run this command
 git clone https://github.com/aspectron/kaspa-ng.git
 ```
 
-Build Kaspa-NG
+Build Kaspa-NG (About 35min)
 ```
 cd kaspa-ng
 cargo build --release
 ```
-After it builds which could take 20min run it with this command
+After it builds run it with this command
 ```
 ./target/release/kaspa-ng
 ```
