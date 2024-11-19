@@ -76,10 +76,7 @@ Go into your terminal again and enter this command
 ```
 go version
 ```
-
-You should see a go version appear
-
-Congratulations you have downloaded GO to your device!
+You should see a version which means you have succsfully installed Go!
 
 # Step 2: Download Rust
 
@@ -98,18 +95,6 @@ Install Rust with this command
   (May take 5-10min)
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-Configure your shell following these commands in order
-```
-source $HOME/.cargo/env
-```
-
-```
-echo 'source $HOME/.cargo/env' >> ~/.bashrc
-```
-
-```
-source ~/.bashrc
 ```
 
 Then verify the install with this command
