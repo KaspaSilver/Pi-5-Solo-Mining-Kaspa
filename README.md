@@ -135,6 +135,12 @@ Next enter this command
 ```
 cd cmd/kaspabridge
 ```
+
+Build with this command next
+```
+go build
+```
+
 Start the bridge with this command
 ```
 ./kaspabridge
