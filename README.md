@@ -115,3 +115,25 @@ git --version
 ```
 You should see a version which means you have succsfully installed Git!
 
+# Step 4: Download Kaspa-Stratum-Bridge
+Now because some users do have goldshell miners we will be downloading the bridge under the goldshell branch to ensure the bridge works with all miners. Please make sure your miners are updated to the latest version as well.
+
+Lets clone the repository for goldshell
+```
+git clone https://github.com/rdugan/kaspa-stratum-bridge.git
+```
+Next, Cd into the kaspa-stratum-bridge
+```
+cd kaspa-stratum-bridge
+```
+
+Then ensure you are on goldshell branch by running this command
+```
+git checkout goldshell
+```
+Run this command
+```
+./kaspabridge
+```
+The bridge should start!
+
