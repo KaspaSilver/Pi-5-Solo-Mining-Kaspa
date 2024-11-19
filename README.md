@@ -147,6 +147,8 @@ Start the bridge with this command
 ```
 The bridge should start!
 
+**Note: Make sure you change local host to 127.0.0.1 in the config file and if you are using a goldshell device set the extranonce_size to 3**
+
 # Step 5: Download Kaspa-NG
 
 Open a fresh terminal and run this command
