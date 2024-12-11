@@ -13,7 +13,7 @@
 + Learn to download Rust
 + Learn to download Git
 + Learn to download the kaspa-stratum-bridge
-+ Learn to download Kaspa-NG
++ Learn to download Rusty-Kaspa
 
 
 # Step 1: Downloading GO
