@@ -153,22 +153,10 @@ The bridge should start!
 
 **Note: Make sure you change local host to 127.0.0.1 in the config file and if you are using a goldshell device set the extranonce_size to 3**
 
-# Step 5: Download Kaspa-NG
+# Step 5: Download Kaspa Rust Node
 
-Open a fresh terminal and run this command
-```
-git clone https://github.com/aspectron/kaspa-ng.git
-```
+Go to this link: https://github.com/kaspanet/rusty-kaspa and follow the steps to build on linux
 
-Build Kaspa-NG (About 35min)
-```
-cd kaspa-ng
-cargo build --release
-```
-After it builds run it with this command
-```
-./target/release/kaspa-ng
-```
 
 After that, you are done! For configuration setup check out this video I made: [How To Solo Mine To Your Own Node Using KNG On Kaspa
 ](https://youtu.be/2MuebQia1F0?si=ZzxXJgSGUnddRTs8)
