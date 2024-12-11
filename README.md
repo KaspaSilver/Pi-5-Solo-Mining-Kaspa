@@ -157,6 +157,16 @@ The bridge should start!
 
 Go to this link: https://github.com/kaspanet/rusty-kaspa and follow the steps to build on linux
 
+Any time you want to run the Kaspa node follow these commands
+
+```
+cd rusty-kaspa
+```
+
+```
+cargo run --release --bin kaspad -- --utxoindex
+```
+
 
 After that, you are done! For configuration setup check out this video I made: [How To Solo Mine To Your Own Node Using KNG On Kaspa
 ](https://youtu.be/2MuebQia1F0?si=ZzxXJgSGUnddRTs8)
