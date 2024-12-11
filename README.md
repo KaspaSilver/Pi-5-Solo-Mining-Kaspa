@@ -72,7 +72,6 @@ export PATH="$PATH:/usr/local/go/bin"
 If you do not have the the line that is above the blue arrow you can go ahead and copy it as well
 ```
 export PATH="$HOME/.cargo/bin:$PATH"
-
 ```
 Save what you just entered by clicking CTRL + S
 Restart your Pi Device
